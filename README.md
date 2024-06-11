@@ -14,3 +14,6 @@ press any light blue colored shape
 Accept the google authentication
 You can now use it
 **Please dont use the original copy to let other people interested in this spreadsheet capable of making their own copy.**
+
+For an updated version you can buy it at this link below:
+
