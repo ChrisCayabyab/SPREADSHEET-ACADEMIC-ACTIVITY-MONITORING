@@ -15,5 +15,12 @@ Accept the google authentication
 You can now use it
 **Please dont use the original copy to let other people interested in this spreadsheet capable of making their own copy.**
 
+
+Updated version includes:
+- Users may modify buttons according to their preferences
+- Faster Runtime
+- fixed the appscript in which ranges are out of range 
+and many more
+
 For an updated version you can buy it at this link below:
 
