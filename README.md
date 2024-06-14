@@ -30,6 +30,8 @@ UPDATED VERSION:
 
 Updated version includes:
 - Users may modify buttons according to their preferences
+![image](https://github.com/ChrisCayabyab/Activity-Monitoring-sheet-with-macro-buttons/assets/142383617/b092016e-6846-4154-9494-d960aa6ac4da)
+
 - Faster Runtime
 - fixed the appscript in which ranges are out of range 
 and many more
