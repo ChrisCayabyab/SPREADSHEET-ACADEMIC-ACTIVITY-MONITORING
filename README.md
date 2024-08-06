@@ -36,5 +36,6 @@ Updated version includes:
 - fixed the appscript in which ranges are out of range 
 and many more
 
-For an updated version you can buy it at this link below:
+For an updated version you may email me for a copy.
+cayabyab.chrisdaniel@gmail.com
 
