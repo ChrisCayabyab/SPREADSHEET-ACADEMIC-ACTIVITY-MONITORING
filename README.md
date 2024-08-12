@@ -1,41 +1,15 @@
 # priorityCheckerSpreadsheet
 
-Original Link: https://docs.google.com/spreadsheets/d/1Twf1jXJB915axdszsGYFtMBBeo52xMsE_8CfoiPmXDA/edit?usp=sharing
+LINK: <BR> https://docs.google.com/spreadsheets/d/1G-3oZali_tG6WdHkGS_oJ3xaWKPyvoXxtmlMy0OI1t0/edit?usp=sharing <BR>
 
-The excel file does not support the macro features. Go the link above to see the whole feature
+-ACTIVITY MONITORING-
+![image](https://github.com/user-attachments/assets/64ad2532-aaf0-4156-ad1e-83c9d65150fc) <BR>
 
-![image](https://github.com/ChrisCayabyab/priorityCheckerSpreadsheet/assets/142383617/0eca330a-8dd7-444a-bd82-ed5600bbf146)
+-POINT MONITORING-<BR>
+![image](https://github.com/user-attachments/assets/7784e9a4-f889-4de1-97ef-1cba43cab264) <BR>
 
-First time using this:
+-POINT CHECKING- <BR>
+![image](https://github.com/user-attachments/assets/6c371b33-c945-4184-b454-4c7aef77f2b0)
 
-Go to the file settings
-make a copy
-press any light blue colored shape
-Accept the google authentication
-You can now use it
-**Please dont use the original copy to let other people interested in this spreadsheet capable of making their own copy.**
-
-UPDATED VERSION:
--SORTED BY DATE-
-
-![image](https://github.com/ChrisCayabyab/Activity-Monitoring-sheet-with-macro-buttons/assets/142383617/254e7caa-7bea-4b7b-a8d1-04767e8545af)
-
--SORTED BY SUBJECT-
-
-![image](https://github.com/ChrisCayabyab/Activity-Monitoring-sheet-with-macro-buttons/assets/142383617/dd843406-24a5-42c4-8c8e-e5e1afe25873)
-
--SORTED BY CATEGORY-
-
-![image](https://github.com/ChrisCayabyab/Activity-Monitoring-sheet-with-macro-buttons/assets/142383617/9412e4b9-a91a-4944-bd7d-17bfaac6a105)
-
-Updated version includes:
-- Users may modify buttons according to their preferences
-![image](https://github.com/ChrisCayabyab/Activity-Monitoring-sheet-with-macro-buttons/assets/142383617/b092016e-6846-4154-9494-d960aa6ac4da)
-
-- Faster Runtime
-- fixed the appscript in which ranges are out of range 
-and many more
-
-For an updated version you may email me for a copy.
-cayabyab.chrisdaniel@gmail.com
-
+# If you desire to have a copy, you can email me at cayabyab.chrisdaniel@gmail.com to purchase a copy of this spreadsheet <br>
+standard price: 10USD
