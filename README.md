@@ -13,3 +13,19 @@ LINK: <BR> https://docs.google.com/spreadsheets/d/1G-3oZali_tG6WdHkGS_oJ3xaWKPyv
 
 # If you desire to have a copy, you can email me at cayabyab.chrisdaniel@gmail.com to purchase a copy of this spreadsheet <br>
 standard price: 10USD
+
+
+<br><br><br><br><br> THE FOLLOWING ARE EXAMPLES OF HOW THE BUTTONS WORK <br>
+-SORT BY ACTIVITY- <BR>
+![image](https://github.com/user-attachments/assets/601d3495-7269-4fed-b1da-28b034c03693) <BR>
+
+-SORT BY SUBJECT- <br>
+![image](https://github.com/user-attachments/assets/12962a26-7304-4f5c-ae43-038572edbaa3) <br>
+
+-SORT BY CATEGORY- <BR>
+![image](https://github.com/user-attachments/assets/e3896ce2-97ad-477d-8bec-46e2936ed3c7) <BR>
+
+-SORT BY DATE- <BR>
+![image](https://github.com/user-attachments/assets/26c91f73-a8d0-4d3a-9ce2-c6a970166c24) <BR>
+
+
