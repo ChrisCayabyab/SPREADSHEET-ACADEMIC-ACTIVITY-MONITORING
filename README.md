@@ -1,7 +1,5 @@
 # priorityCheckerSpreadsheet
 
-LINK: <BR> https://docs.google.com/spreadsheets/d/1G-3oZali_tG6WdHkGS_oJ3xaWKPyvoXxtmlMy0OI1t0/edit?usp=sharing <BR>
-
 -ACTIVITY MONITORING-
 ![image](https://github.com/user-attachments/assets/64ad2532-aaf0-4156-ad1e-83c9d65150fc) <BR>
 
