@@ -9,8 +9,7 @@
 -POINT CHECKING- <BR>
 ![image](https://github.com/user-attachments/assets/6c371b33-c945-4184-b454-4c7aef77f2b0)
 
-# If you desire to have a copy, you can email me at cayabyab.chrisdaniel@gmail.com to purchase a copy of this spreadsheet <br>
-standard price: 10USD
+# FOR A COPY OF THIS SPREADSHEET: https://www.raket.ph/danndorm, or you can email me at cayabyab.chrisdaniel@gmail.com to purchase a copy of this spreadsheet <br>
 
 
 <br><br><br><br><br> THE FOLLOWING ARE EXAMPLES OF HOW THE BUTTONS WORK <br>
