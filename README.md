@@ -1,5 +1,8 @@
 # priorityCheckerSpreadsheet
 
+FOR a copy:
+https://docs.google.com/spreadsheets/d/1xVALYB8e4k-k9-9xR5hOh45iG9GwiMj2eeEJevuZVIw/copy
+
 -ACTIVITY MONITORING-
 ![image](https://github.com/user-attachments/assets/64ad2532-aaf0-4156-ad1e-83c9d65150fc) <BR>
 
@@ -8,9 +11,6 @@
 
 -POINT CHECKING- <BR>
 ![image](https://github.com/user-attachments/assets/6c371b33-c945-4184-b454-4c7aef77f2b0)
-
-# FOR A COPY OF THIS SPREADSHEET: https://www.raket.ph/danndorm, or you can email me at cayabyab.chrisdaniel@gmail.com to purchase a copy of this spreadsheet <br>
-
 
 <br><br><br><br><br> THE FOLLOWING ARE EXAMPLES OF HOW THE BUTTONS WORK <br>
 -SORT BY ACTIVITY- <BR>
