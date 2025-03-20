@@ -3,6 +3,7 @@
 https://github.com/user-attachments/assets/edfaf5ce-f21a-47eb-a76b-5c6179cfaef8
 
 📊 Smart Activity Tracker Spreadsheet
+
 This Smart Activity Tracker Spreadsheet is a dynamic and interactive tool designed to efficiently track activities with automated features for enhanced usability.
 
 🔹 Features
